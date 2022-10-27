@@ -1,3 +1,4 @@
-exports.printMsg = function () {
-  console.log("This is a message from the demo package");
-};
+const capitalize = (searchQuery) =>
+  searchQuery.charAt(0).toUpperCase() + searchQuery.slice(1);
+
+module.exports = { capitalize };
