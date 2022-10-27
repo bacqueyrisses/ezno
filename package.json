@@ -1,0 +1,21 @@
+{
+  "name": "ezno",
+  "version": "1.0.0",
+  "description": "Set of useful JS modules that will make you say : EZ, NO ?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bite"
+  },
+  "keywords": [
+    "js",
+    "utils",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "bacqueyrisses",
+  "license": "ISC"
+}
