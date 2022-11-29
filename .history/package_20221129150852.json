@@ -1,6 +1,6 @@
 {
   "name": "bacqueyrisses",
-  "version": "1.0.5",
+  "version": "1.0.4",
   "description": "Set of useful JS modules that will make you say : EZ, NO ?",
   "main": "index.js",
   "scripts": {
