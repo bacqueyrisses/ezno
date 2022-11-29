@@ -1,1 +1,8 @@
+## Node Modules & .env
+node_modules/
+.env
+
+## Editor files
 .idea
+.vscode
+.history
